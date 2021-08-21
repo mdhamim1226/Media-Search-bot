@@ -29,7 +29,7 @@ START_MSG = """
 **Hi, I'm Media Search bot**
 
 Here you can search files in inline mode. Just press following buttons and start searching.
-Join Channel: https://t.me/joinchat/S8oufJwLDK7NftFk
+Join Channel: @Hollywood_HinDub
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
